@@ -102,7 +102,6 @@ const NetAssetPerShareChart = ({ filters }) => {
           <XAxis dataKey="Year" />
           <YAxis
             label={{
-              value: "Value (Rs)",
               angle: -90,
               position: "insideLeft",
             }}
