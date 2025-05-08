@@ -63,14 +63,14 @@ The frontend will be running on: http://localhost:5173/
 
 ## 📊 Core Features
 
-✅ Total Revenue (2019–2024) trend line with COVID-19 annotation
-✅ Cost of Sales vs. Operating Expenses (dual-axis bar)
-✅ Gross Profit Margin with tax event markers
-✅ Earnings Per Share (EPS) trend with tooltips
-✅ Net Asset Per Share with benchmarks
-✅ Top 20 Shareholders as interactive table/pie chart
-✅ AI-generated insights using LLM
-✅ Year, Sector, and Currency filters
-✅ Export to PDF/CSV and light/dark mode toggle
-✅ Responsive design and drill-down capability
+- Total Revenue (2019–2024) trend line with COVID-19 annotation
+- Cost of Sales vs. Operating Expenses (dual-axis bar)
+- Gross Profit Margin with tax event markers
+- Earnings Per Share (EPS) trend with tooltips
+- Net Asset Per Share with benchmarks
+- Top 20 Shareholders as interactive table/pie chart
+- AI-generated insights using LLM
+- Year, Sector, and Currency filters
+- Export to PDF/CSV and light/dark mode toggle
+- Responsive design and drill-down capability
 
