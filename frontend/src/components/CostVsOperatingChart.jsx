@@ -44,8 +44,7 @@ const CostVsOperatingChart = ({ filters }) => {
 
   const filteredData = metrics
     .filter(item => (
-      (filters.year.length === 0 || filters.year.includes(item.Year)) &&
-      (filters.industry.length === 0 || filters.industry.includes(item.Industry))
+      (filters.year.length === 0 || filters.year.includes(item.Year)) 
     ))
     .reduce((acc, curr) => {
       const year = curr.Year;
